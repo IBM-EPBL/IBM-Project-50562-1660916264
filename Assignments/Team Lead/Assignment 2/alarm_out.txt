@@ -1,0 +1,100 @@
+Temperature: 0  	Humidity: 73	-----	ALARM: Temperature and Humidity not safe!
+Temperature: 26  	Humidity: 78	-----	ALARM: Humidity not safe!
+Temperature: -2  	Humidity: 16	-----	ALARM: Temperature and Humidity not safe!
+Temperature: -1  	Humidity: 70	-----	ALARM: Temperature and Humidity not safe!
+Temperature: 19  	Humidity: 15	-----	ALARM: Temperature and Humidity not safe!
+Temperature: 29  	Humidity: 64	-----	ALARM: Humidity not safe!
+Temperature: 67  	Humidity: 73	-----	ALARM: Temperature and Humidity not safe!
+Temperature: 47  	Humidity: 39	-----	No Alarm!
+Temperature: 48  	Humidity: 53	-----	No Alarm!
+Temperature: 57  	Humidity: 62	-----	ALARM: Temperature and Humidity not safe!
+Temperature: 32  	Humidity: 58	-----	No Alarm!
+Temperature: 69  	Humidity: 68	-----	ALARM: Temperature and Humidity not safe!
+Temperature: -6  	Humidity: 38	-----	ALARM: Temp not safe!
+Temperature: 46  	Humidity: 62	-----	ALARM: Humidity not safe!
+Temperature: 35  	Humidity: 12	-----	ALARM: Temperature and Humidity not safe!
+Temperature: 58  	Humidity: 50	-----	ALARM: Temperature and Humidity not safe!
+Temperature: 45  	Humidity: 67	-----	ALARM: Humidity not safe!
+Temperature: 56  	Humidity: 58	-----	ALARM: Temperature and Humidity not safe!
+Temperature: -8  	Humidity: 65	-----	ALARM: Temperature and Humidity not safe!
+Temperature: 2  	Humidity: 23	-----	ALARM: Temperature and Humidity not safe!
+Temperature: -1  	Humidity: 27	-----	ALARM: Temperature and Humidity not safe!
+Temperature: 23  	Humidity: 40	-----	No Alarm!
+Temperature: 57  	Humidity: 70	-----	ALARM: Temperature and Humidity not safe!
+Temperature: 12  	Humidity: 35	-----	No Alarm!
+Temperature: 47  	Humidity: 39	-----	No Alarm!
+Temperature: 7  	Humidity: 53	-----	ALARM: Temp not safe!
+Temperature: 7  	Humidity: 21	-----	ALARM: Temperature and Humidity not safe!
+Temperature: 4  	Humidity: 40	-----	ALARM: Temp not safe!
+Temperature: 45  	Humidity: 35	-----	No Alarm!
+Temperature: 23  	Humidity: 75	-----	ALARM: Humidity not safe!
+Temperature: 22  	Humidity: 41	-----	No Alarm!
+Temperature: 7  	Humidity: 20	-----	ALARM: Temperature and Humidity not safe!
+Temperature: 36  	Humidity: 44	-----	No Alarm!
+Temperature: 67  	Humidity: 32	-----	ALARM: Temperature and Humidity not safe!
+Temperature: 3  	Humidity: 53	-----	ALARM: Temp not safe!
+Temperature: 26  	Humidity: 48	-----	No Alarm!
+Temperature: 42  	Humidity: 18	-----	ALARM: Temperature and Humidity not safe!
+Temperature: 31  	Humidity: 78	-----	ALARM: Humidity not safe!
+Temperature: 58  	Humidity: 30	-----	ALARM: Temperature and Humidity not safe!
+Temperature: 21  	Humidity: 48	-----	No Alarm!
+Temperature: 45  	Humidity: 20	-----	ALARM: Temperature and Humidity not safe!
+Temperature: 34  	Humidity: 79	-----	ALARM: Humidity not safe!
+Temperature: 15  	Humidity: 19	-----	ALARM: Temperature and Humidity not safe!
+Temperature: 42  	Humidity: 18	-----	ALARM: Temperature and Humidity not safe!
+Temperature: 23  	Humidity: 30	-----	No Alarm!
+Temperature: 53  	Humidity: 38	-----	ALARM: Temperature and Humidity not safe!
+Temperature: 23  	Humidity: 32	-----	No Alarm!
+Temperature: 58  	Humidity: 57	-----	ALARM: Temperature and Humidity not safe!
+Temperature: 41  	Humidity: 11	-----	ALARM: Temperature and Humidity not safe!
+Temperature: 37  	Humidity: 17	-----	ALARM: Temperature and Humidity not safe!
+Temperature: 64  	Humidity: 32	-----	ALARM: Temperature and Humidity not safe!
+Temperature: 43  	Humidity: 17	-----	ALARM: Temperature and Humidity not safe!
+Temperature: -2  	Humidity: 77	-----	ALARM: Temperature and Humidity not safe!
+Temperature: 9  	Humidity: 65	-----	ALARM: Temperature and Humidity not safe!
+Temperature: 26  	Humidity: 26	-----	ALARM: Temperature and Humidity not safe!
+Temperature: -1  	Humidity: 38	-----	ALARM: Temp not safe!
+Temperature: 18  	Humidity: 77	-----	ALARM: Humidity not safe!
+Temperature: -6  	Humidity: 31	-----	ALARM: Temp not safe!
+Temperature: 1  	Humidity: 28	-----	ALARM: Temperature and Humidity not safe!
+Temperature: -6  	Humidity: 12	-----	ALARM: Temperature and Humidity not safe!
+Temperature: 56  	Humidity: 16	-----	ALARM: Temperature and Humidity not safe!
+Temperature: 43  	Humidity: 33	-----	No Alarm!
+Temperature: -10  	Humidity: 46	-----	ALARM: Temp not safe!
+Temperature: 25  	Humidity: 43	-----	No Alarm!
+Temperature: 62  	Humidity: 39	-----	ALARM: Temperature and Humidity not safe!
+Temperature: 34  	Humidity: 29	-----	ALARM: Temperature and Humidity not safe!
+Temperature: -7  	Humidity: 30	-----	ALARM: Temp not safe!
+Temperature: 26  	Humidity: 33	-----	No Alarm!
+Temperature: 51  	Humidity: 64	-----	ALARM: Temperature and Humidity not safe!
+Temperature: 56  	Humidity: 26	-----	ALARM: Temperature and Humidity not safe!
+Temperature: 21  	Humidity: 31	-----	No Alarm!
+Temperature: 16  	Humidity: 10	-----	ALARM: Temperature and Humidity not safe!
+Temperature: 48  	Humidity: 30	-----	No Alarm!
+Temperature: 43  	Humidity: 11	-----	ALARM: Temperature and Humidity not safe!
+Temperature: 23  	Humidity: 78	-----	ALARM: Humidity not safe!
+Temperature: -5  	Humidity: 52	-----	ALARM: Temp not safe!
+Temperature: 68  	Humidity: 18	-----	ALARM: Temperature and Humidity not safe!
+Temperature: -5  	Humidity: 10	-----	ALARM: Temperature and Humidity not safe!
+Temperature: -5  	Humidity: 24	-----	ALARM: Temperature and Humidity not safe!
+Temperature: 43  	Humidity: 73	-----	ALARM: Humidity not safe!
+Temperature: 0  	Humidity: 53	-----	ALARM: Temp not safe!
+Temperature: 29  	Humidity: 75	-----	ALARM: Humidity not safe!
+Temperature: 55  	Humidity: 16	-----	ALARM: Temperature and Humidity not safe!
+Temperature: 4  	Humidity: 23	-----	ALARM: Temperature and Humidity not safe!
+Temperature: 32  	Humidity: 17	-----	ALARM: Temperature and Humidity not safe!
+Temperature: 37  	Humidity: 38	-----	No Alarm!
+Temperature: 3  	Humidity: 12	-----	ALARM: Temperature and Humidity not safe!
+Temperature: 41  	Humidity: 27	-----	ALARM: Temperature and Humidity not safe!
+Temperature: 28  	Humidity: 20	-----	ALARM: Temperature and Humidity not safe!
+Temperature: 57  	Humidity: 26	-----	ALARM: Temperature and Humidity not safe!
+Temperature: 51  	Humidity: 59	-----	ALARM: Temperature and Humidity not safe!
+Temperature: 36  	Humidity: 49	-----	No Alarm!
+Temperature: 57  	Humidity: 70	-----	ALARM: Temperature and Humidity not safe!
+Temperature: 2  	Humidity: 66	-----	ALARM: Temperature and Humidity not safe!
+Temperature: 12  	Humidity: 24	-----	ALARM: Temperature and Humidity not safe!
+Temperature: 52  	Humidity: 26	-----	ALARM: Temperature and Humidity not safe!
+Temperature: -7  	Humidity: 44	-----	ALARM: Temp not safe!
+Temperature: 12  	Humidity: 24	-----	ALARM: Temperature and Humidity not safe!
+Temperature: 41  	Humidity: 31	-----	No Alarm!
+Temperature: -10  	Humidity: 55	-----	ALARM: Temp not safe!
