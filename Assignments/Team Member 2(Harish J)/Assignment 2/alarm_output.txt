@@ -1,0 +1,25 @@
+Temperature: 6, Humidity: 64	-----	Temperature and Humidity Not Safe!
+Temperature: 2, Humidity: 32	-----	Temperature Not Safe!
+Temperature: 43, Humidity: 54	-----	All is well!
+Temperature: 38, Humidity: 77	-----	Humidity Not Safe!
+Temperature: 63, Humidity: 74	-----	Temperature and Humidity Not Safe!
+Temperature: -3, Humidity: 78	-----	Temperature and Humidity Not Safe!
+Temperature: 15, Humidity: 48	-----	All is well!
+Temperature: 12, Humidity: 69	-----	Humidity Not Safe!
+Temperature: 54, Humidity: 13	-----	Temperature and Humidity Not Safe!
+Temperature: 7, Humidity: 20	-----	Temperature and Humidity Not Safe!
+Temperature: 8, Humidity: 10	-----	Temperature and Humidity Not Safe!
+Temperature: 45, Humidity: 23	-----	Humidity Not Safe!
+Temperature: -3, Humidity: 87	-----	Temperature and Humidity Not Safe!
+Temperature: 34, Humidity: 48	-----	All is well!
+Temperature: 60, Humidity: 21	-----	Temperature and Humidity Not Safe!
+Temperature: 49, Humidity: 88	-----	Humidity Not Safe!
+Temperature: 61, Humidity: 63	-----	Temperature and Humidity Not Safe!
+Temperature: 68, Humidity: 76	-----	Temperature and Humidity Not Safe!
+Temperature: 42, Humidity: 74	-----	Humidity Not Safe!
+Temperature: 60, Humidity: 14	-----	Temperature and Humidity Not Safe!
+Temperature: 30, Humidity: 33	-----	All is well!
+Temperature: 12, Humidity: 39	-----	All is well!
+Temperature: 2, Humidity: 77	-----	Temperature and Humidity Not Safe!
+Temperature: 28, Humidity: 42	-----	All is well!
+Temperature: 69, Humidity: 72	-----	Temperature and Humidity Not Safe!
