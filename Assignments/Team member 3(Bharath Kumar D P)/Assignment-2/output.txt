@@ -1,0 +1,114 @@
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
+temperature is: 309.14
+Humidity is : 34
